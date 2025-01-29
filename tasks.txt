@@ -1,0 +1,9 @@
+0. going to home
+0. 5am going to temple
+1. 6am reading books
+2. 10am going to work
+0. 5am going to gym
+1. 6am to go temple
+2. 7am to go work
+0. 5am to go gym
+0. 1231213123
